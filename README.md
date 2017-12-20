@@ -2,3 +2,8 @@
 
 Python interface for Broadlink RM Mini 3 device.
 Builds on the python-broadlink library, providing functionality to learn, save, and transmit IR codes.
+
+
+### License
+
+Software licensed by Mac Gaulin, under [MIT License](LICENSE).
