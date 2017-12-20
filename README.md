@@ -1,6 +1,6 @@
 # py_rm_mini: Python RM Mini 3 Interface
 
-Python interface for Broadlink RM Mini 3 device.
+Python interface for [Broadlink RM Mini 3](https://smile.amazon.com/dp/B01FK2SDOC) device.
 Builds on the python-broadlink library, providing functionality to learn, save, and transmit IR codes.
 
 ## Codes
